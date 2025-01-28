@@ -3,18 +3,20 @@ header{
     background-color: rgb(79, 79, 225);
     text-align: center;
     border-radius: 10px; /* ujung*/
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 2px;
     margin: 0px;
-
-    
 }
 div{
     display: flex;
     gap: 15px;
-    color: rgb(21, 93, 93);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: normal;
+    color: rgb(17, 70, 140);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: #ddd;
+    margin: 3px;
+    border-radius: 7px;
+    padding-left: 15px;
 }
 main{
     background-color: #c7c7d5;
@@ -26,6 +28,7 @@ section{
     margin: 10px;
     border-radius: 10px;
     padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 footer{
     background-color: #3e3e4c;
@@ -33,5 +36,5 @@ footer{
     color: white;
     padding: 5px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 7px;
 }
