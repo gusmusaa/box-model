@@ -22,6 +22,7 @@ main{
     background-color: #c7c7d5;
     padding: 5px;
     border-radius: 10px;
+    display: flex;
 }
 section{
     background-color: #ddd;
