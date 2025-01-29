@@ -23,6 +23,7 @@ main{
     padding: 5px;
     border-radius: 10px;
     display: flex;
+    justify-content: center;
 }
 section{
     background-color: #ddd;
